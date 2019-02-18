@@ -3,4 +3,4 @@ target/
 *.retry
 *.swp
 **/*.jar
-*.sat
+
